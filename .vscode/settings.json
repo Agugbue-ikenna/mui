@@ -1,0 +1,6 @@
+{
+    "marquee.widgets.npm-stats.packageNames": [
+        "my-own"
+    ],
+    "git.ignoreLimitWarning": true
+}
